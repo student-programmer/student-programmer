@@ -7,6 +7,7 @@
 
 [<img align="left" alt="Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/tazer16)
 [<img align="left" alt="VK" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />](https://vk.com/roman_podobny)
+[<img align="left" alt="YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC5Nolx3XFaLpPraIC5JP8VQ)
 
 <br />
 
